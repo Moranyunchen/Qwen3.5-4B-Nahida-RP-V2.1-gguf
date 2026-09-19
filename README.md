@@ -60,7 +60,7 @@ huggingface开源地址：https://huggingface.co/Moranyunchen/Qwen3.5-4B-Nahida-
 * ✅ **专精高品质 Q4 / Q5 选项**：v2.1 仅提供 **Q4_K_M** 与 **Q5_K_M** 两个在显存/内存开销与表达能力上达到 Pareto 最优的量化分支。
 
 ### 4. 👁️ 多模态视觉投影适配器 (Multimodal Vision Projector Support)
-* 🖼️ 本次随主模型同步推出了配套的 **BF16 视觉投影解析文件**（`cpt1.BF16-mmproj.gguf`）。在 KoboldCPP / LM Studio 等支持多模态的前端加载该文件时，可使模型具备图像理解与视觉 RP 能力！
+* 🖼️ 本次随主模型同步推出了配套的 **BF16 视觉投影解析文件**（`Qwen3.5-4B-Nahida-RP-V2.1-BF16-mmproj.gguf`）。在 KoboldCPP / LM Studio 等支持多模态的前端加载该文件时，可使模型具备图像理解与视觉 RP 能力！
 
 ---
 
