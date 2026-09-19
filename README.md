@@ -1,21 +1,4 @@
----
-license: cc-by-nc-4.0
-language:
-- zh
-tags:
-- not-for-all-audiences
-- roleplay
-- genshin-impact
-- nahida
-- 纳西妲
-- 原神
-- qwen
-- gguf
-- text-generation
-base_model:
-- Qwen/Qwen3.5-4B
-pipeline_tag: text-generation
----
+huggingface开源地址：https://huggingface.co/Moranyunchen/Qwen3.5-4B-Nahida-RP-V2.1-GGUF
 
 # 🌿 Qwen3.5-4B-Nahida-RP-GGUF (v2.1 Major Refinement & Mobile-Friendly Edition) 🌸
 
