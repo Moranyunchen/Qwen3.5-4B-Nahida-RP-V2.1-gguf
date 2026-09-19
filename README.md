@@ -1,5 +1,9 @@
 huggingface开源地址：https://huggingface.co/Moranyunchen/Qwen3.5-4B-Nahida-RP-V2.1-GGUF
 
+夸克网盘：我用夸克网盘给你分享了「nahida」，点击链接或复制整段内容，打开「夸克APP」即可获取。
+/~0bdc3ay2lG~:/
+链接：https://pan.quark.cn/s/72901ec2c81e
+
 # 🌿 Qwen3.5-4B-Nahida-RP-GGUF (v2.1 Major Refinement & Mobile-Friendly Edition) 🌸
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-red.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
